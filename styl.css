@@ -1,0 +1,11 @@
+p.text {
+	font: 5px Courier;
+	line-height: 100%;
+	color: #000000;
+	margin-top: 0px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+	letter-spacing: 0px;
+  line-height: 3px;
+}
